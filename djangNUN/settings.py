@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'djangNUN.wsgi.application'
+WSGI_APPLICATION = 'djangNUN.wsgi.app'
 
 
 # Database
